@@ -1,0 +1,19 @@
+.btn-submit{
+  cursor: pointer;
+  font-size: 16px;
+  padding: 5px 10px;
+}
+
+.main-box{
+  margin: 40px 30px;
+  padding: 15px 30px;
+  background: rgb(231, 230, 230);
+  border-radius: 10px;
+  width: 50%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+body{
+  height: 100vh;
+ background-image: linear-gradient(rgb(255, 255, 255),rgb(109,39,239));
+}
